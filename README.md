@@ -5,4 +5,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Prasanthoff018/Python/tree/master/0006-zigzag-conversion) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Prasanthoff018/Python/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
